@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @drakonhg
 - 👀 I’m interested in Web,Software and Mobile Development
-- 🌱 I’m currently learning Swift, Java
-- 💞️ I’m looking to collaborate on my startapp projects which are in development
+- 🌱 I’m currently learning ETL, Async, Databases
 - 📫 How to reach me drakonhg@gmail.com or by telegram: @drakonhg
 
 <!---
