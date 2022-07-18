@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drakonhg
 - 👀 I’m interested in Web,Software and Mobile Development
-- 🌱 I’m currently learning ML, Go, Rust
+- 🌱 I’m currently learning Swfit, Go, Rust
 - 📫 How to reach me drakonhg@gmail.com or by telegram: @drakonhg
 
 <!---
